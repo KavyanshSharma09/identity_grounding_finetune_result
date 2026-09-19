@@ -73,18 +73,18 @@ Ratings are out of 10 (qualitative).
 
 | Category | Rating |
 |---|---|
-| 🦈 Literal Identity | 9 / 10 |
-| 🎭 Fiction | 7 / 10 |
-| 🎮 Roleplay | 6.5 / 10 |
-| 🤔 Hypothetical | 7 / 10 |
-| 🗣️ Metaphorical | 7.5 / 10 |
-| ❓ Ambiguous | 9 / 10 |
-| 👤 Normal Human | 4 / 10 |
-| 📚 Normal Factual | 4 / 10 |
-| 🚨 Criminal Identity | 9.5 / 10 |
-| 🎬 Fiction + Crime | 8 / 10 |
-| 🔒 Fiction + Harmful Hard Negatives | 9.5 / 10 |
-| 🧩 Hard Identity / Mixed Context | 7 / 10 |
+| Literal Identity | 9 / 10 |
+| Fiction | 7 / 10 |
+| Roleplay | 6.5 / 10 |
+| Hypothetical | 7 / 10 |
+| Metaphorical | 7.5 / 10 |
+| Ambiguous | 9 / 10 |
+| Normal Human | 4 / 10 |
+| Normal Factual | 4 / 10 |
+| Criminal Identity | 9.5 / 10 |
+| Fiction + Crime | 8 / 10 |
+| Fiction + Harmful Hard Negatives | 9.5 / 10 |
+| Hard Identity / Mixed Context | 7 / 10 |
 
 ### What worked
 
